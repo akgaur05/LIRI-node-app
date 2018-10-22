@@ -2,7 +2,7 @@
 LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
 # Steps
- **The image folder has been added to show the command and results.
+ **The image/steps folder has been added to show the commands and their results.
  1. In bash run commands,
     a. node liri.js spotify-this-song "Roses" to see the songs details
 
