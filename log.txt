@@ -1,0 +1,78 @@
+Spotify This Song
+************************************************************
+
+Artists      : Skillet
+Album        : Awake
+Track        : Hero
+Preview link : https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=97e75b42ce4644bc9332d5ab68f4e3aa
+
+************************************************************
+
+
+Concert This
+************************************************************
+
+Title           : Maroon 5
+Name of Venue   : Mandalay Bay Events Center
+Venue Location  : Las Vegas,United States
+Date of Event   : 12-30-2018
+
+************************************************************
+
+
+Movie This
+************************************************************
+
+Title          : The Nun
+Release year   : 2018
+Plot           : A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.
+Actors         : Demián Bichir, Taissa Farmiga, Jonas Bloquet, Bonnie Aarons
+IMDB           : 5.7
+RottenTomatoes : 26%
+Production     : USA
+Language       : English, French, Romanian, Latin
+
+************************************************************
+
+
+Movie This
+************************************************************
+
+Title          : Hunter
+Release year   : 1984–1991
+Plot           : Rick Hunter is a renegade cop who breaks the rules and takes justice into his own hands. Partnered with the equally stunning and rebellious Sgt. McCall, the tough-minded duo set out to crack down on L.A.'s slimiest criminals.
+Actors         : Fred Dryer, Stepfanie Kramer, Charles Hallahan
+IMDB           : 6.8
+RottenTomatoes : N/A
+Production     : USA
+Language       : English
+
+************************************************************
+
+
+Movie This
+************************************************************
+
+Title          : Hush
+Release year   : 2016
+Plot           : A deaf writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears at her window.
+Actors         : John Gallagher Jr., Kate Siegel, Michael Trucco, Samantha Sloyan
+IMDB           : 6.6
+RottenTomatoes : 88%
+Production     : USA
+Language       : English, American Sign Language
+
+************************************************************
+
+
+Spotify This Song
+************************************************************
+
+Artists      : Lil Skies, Landon Cube
+Album        : Life of a Dark Rose
+Track        : Red Roses (feat. Landon Cube)
+Preview link : https://p.scdn.co/mp3-preview/b901055e530dbe9e0cbf1f2bf8216b401f70798b?cid=97e75b42ce4644bc9332d5ab68f4e3aa
+
+************************************************************
+
+
